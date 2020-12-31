@@ -1,14 +1,23 @@
 {
   "name": "jeudusimon",
   "version": "1.0.0",
-  "description": "",
+  "description": "L'objectif du jeu est de mémoriser une séquence de plus en plus grande de couleurs.",
   "main": "index.js",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabienD31/Jeux-du-Simon.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "vue": "^2.6.12"
-  }
+  "bugs": {
+    "url": "https://github.com/FabienD31/Jeux-du-Simon/issues"
+  },
+  "homepage": "https://github.com/FabienD31/Jeux-du-Simon#readme"
 }
