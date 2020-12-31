@@ -21,3 +21,11 @@ Les étapes d'une nouvelle partie sont les suivantes :
 
 
 Une règle supplémentaire : il ne faut pas cliquer quand une couleur est affichée. Ni sur un autre carré, ni nulle part ailleurs.
+
+                                    //method native JS utilisés//
+
+slice() = copier un tableau sans modifier le tableau d'origine (ex: arr2 = arr1.slice())
+
+shift() = supprime l'index 0 d'un tableau et décale les index vers la gauche
+
+setTimeout() = permet d'effectuer une fonction à partir d'un temps donné. (ex: setTimeout(function(){return 0},1000)
